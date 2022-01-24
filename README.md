@@ -44,4 +44,6 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Summary
-This script is dynamic enough to add modifications for it to fit a great number of datasets. For example, 
+This script is dynamic enough to add modifications for it to fit a great number of datasets. For example, a more robust dataset could be introduced and add a few more lines for it to analyze  profoundly the data and get details that in this simple-3-column one we couldn't find. Another suggestion would be to asign each state the value given by the US electoral college, but this one may only be to federal elections.
+
+Overall, this is a simple but useful script to overview the specifics of poll-based databases it is a good base to start from to analyze a large amount of data.
